@@ -1,1 +1,1 @@
-# csvcompare
+# Check the readme.txt
