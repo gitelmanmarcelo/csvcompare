@@ -6,7 +6,7 @@ OwnBackup home assignment - Marcelo Gitelman
 This .zip contains the following files:
 readme.txt => this file
 csvcompare.py => Python source code of the application
-csvcompare.exe => Executable file
+csvcompare.exe => Executable file (for Windows)
                   To execute, type csvcompare path1\file1.csv path2\file2.csv, where file1.csv and file2.csv are the names of the files to compare
                   If you don't enter the arguments, the program will ask you to input them
 *.csv files => files used to test the application
